@@ -6,7 +6,9 @@ To accurately predict power usage, we propose an ensemble model combining extrem
 ![Demo_Light(4팀)](https://github.com/YeeunMoon/LSTM-Autoencoder-and-XGBoost-based-Factory-Power-Prediction/assets/64064088/847012b2-94ab-4a92-a3aa-d9acfb49b59b)
 <Grafana-MySQL-Visualize>
 **Demo_Grafana-MySQL-Visualize**  
-![Fig 10(a)](https://github.com/YeeunMoon/LSTM-Autoencoder-and-XGBoost-based-Factory-Power-Prediction/assets/64064088/f65257af-e943-49c4-ad05-65d53b1add1e)
-**Train, Validation, and Prediction - Forge 1**  
-![Fig 10(b)](https://github.com/YeeunMoon/LSTM-Autoencoder-and-XGBoost-based-Factory-Power-Prediction/assets/64064088/7543e450-41fc-4e1a-abd9-9c438d61979d)
-**Train, Validation, and Prediction - Forge 2**  
+
+**Train, Validation, and Prediction - Forge 1 and Forge 2**  
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/YeeunMoon/LSTM-Autoencoder-and-XGBoost-based-Factory-Power-Prediction/assets/64064088/7543e450-41fc-4e1a-abd9-9c438d61979d" alt="Fig 10(b)" style="width: 45%;">
+  <img src="https://github.com/YeeunMoon/LSTM-Autoencoder-and-XGBoost-based-Factory-Power-Prediction/assets/64064088/7543e450-41fc-4e1a-abd9-9c438d61979d" alt="Fig 10(c)" style="width: 45%;">
+</div>
